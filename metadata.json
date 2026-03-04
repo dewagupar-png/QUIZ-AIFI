@@ -1,0 +1,7 @@
+{
+  "name": "QUIZ AIFI",
+  "description": "Plataforma educativa con exámenes multimedia, respuestas orales y sistema de refuerzo automático adaptativo.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
